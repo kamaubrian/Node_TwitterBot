@@ -1,0 +1,14 @@
+{
+  "name": "TwitterDu",
+  "version": "1.0.1",
+  "description": "Its a Node app, retweet",
+  "main": "index.js",
+  "repository": "https://github.com/Node_TwitterBot",
+  "author": "Brian Kamau",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "twit": "^2.2.9",
+    "twitt": "^1.0.0"
+  }
+}
