@@ -7,8 +7,10 @@
   "author": "Brian Kamau",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "twit": "^2.2.9",
-    "twitt": "^1.0.0"
+    "twitter": "^1.7.1"
   }
 }
